@@ -17,7 +17,6 @@ type carefreeStructure struct {
   | 1111-1111 | 8 byte for float64 |
   | 1111-0000 | 4 byte for int32 |
   
----
 
 ```go 
 type worriedStructure struct {
