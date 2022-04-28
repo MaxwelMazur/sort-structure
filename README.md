@@ -2,6 +2,7 @@
 
 > simple and incredible as the ordering of its structure can make a difference
 
+<br>
 
 ```go 
 type carefreeStructure struct {
@@ -17,6 +18,7 @@ type carefreeStructure struct {
   | 1111-1111 | 8 byte for float64 |
   | 1111-0000 | 4 byte for int32 |
   
+<br>
 
 ```go 
 type worriedStructure struct {
